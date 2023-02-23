@@ -14,4 +14,12 @@ Aqui está uma tentativa falha de um código.
 </html>
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-<img src="img_girl.jpg" alt="Girl in a jacket">
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
+</body>
+</html>
